@@ -1,0 +1,13 @@
+{
+    "editor.fontSize": 14,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.defaultColorDecorators": false,
+    "workbench.colorTheme": "Abyss",
+    "editor.suggest.showCustomcolors": true,
+    "workbench.preferredHighContrastColorTheme": "Abyss",
+    "workbench.preferredHighContrastLightColorTheme": "Abyss",
+    "screencastMode.mouseIndicatorColor": "#FF0000",
+    "workbench.preferredDarkColorTheme": "Abyss",
+    "workbench.preferredLightColorTheme": "Abyss",
+    "window.autoDetectColorScheme": true
+}
